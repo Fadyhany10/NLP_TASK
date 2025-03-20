@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your Sentiment Analysis project using RNN (LSTM). You can customize it further based on your specific needs.
-
----
-
 # Sentiment Analysis using RNN (LSTM)
 
 This project demonstrates how to perform **Sentiment Analysis** using a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) units. The model is trained on the **IMDB Movie Reviews dataset** to classify text as either positive or negative sentiment.
